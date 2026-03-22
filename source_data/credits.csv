@@ -1,0 +1,3 @@
+credit_id,client_id,amount,currency,status,last_updated
+CR_9901,C001,500000,EUR,Active,2026-03-15
+CR_9902,C002,150000,EUR,Pending,2026-03-16

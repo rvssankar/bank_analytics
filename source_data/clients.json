@@ -1,0 +1,4 @@
+[
+  {"client_id": "C001", "name": "Global Corp", "address": "123 Amsterdam St", "type": "Corporate", "pii_flag": true},
+  {"client_id": "C002", "name": "TechVentures", "address": "456 Utrecht Blvd", "type": "SME", "pii_flag": true}
+]
